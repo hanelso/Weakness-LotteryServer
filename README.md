@@ -1,2 +1,2 @@
 # Weakness-LotteryServer
-Weakness Team Project Lottery Programming
+Weakness Team Project Lottery Application
